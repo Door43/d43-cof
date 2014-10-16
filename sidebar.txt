@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cof:home|Door43 (cof)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cof|d43-cof repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cof/archive/master.zip|d43-cof.zip]]
+
+**Recent Changes**
+{{changes>ns = cof}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cof|Ethnologue data]]
+
